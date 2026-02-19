@@ -38,6 +38,7 @@ return sum; }
 
 // Example console.log(sumOfDistinct([3, 1, 7, 9], [2, 4, 1, 9, 3])); // 13
 
+
 📌 Problem 2: Dot Product & Orthogonality 🔎 Description Part 1: Dot Product
 
 Write a procedure dot_product that calculates the scalar (dot) product of two vectors v1 and v2.
